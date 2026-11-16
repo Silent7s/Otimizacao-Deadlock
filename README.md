@@ -19,7 +19,7 @@ Link para a pagina de download do mod: https://gamebanana.com/mods/722853
 
 
 ## [Brighter lighting](https://deadlockconfig.com/#o-brighterlighting) By BreadRollius
-<img width="666" height="375" alt="deadlockconfig com_ (3)" src="https://github.com/user-attachments/assets/2e171b70-db01-4f19-b786-89736c625267" /><br>
+<img width="1920" height="1080" alt="Mais brilhante" src="https://github.com/user-attachments/assets/f1aa40ba-7cfe-4add-bbf2-c0b660f606d6" /><br>
 O que ele faz: Vignette, exposição local e bloom são processamentos aplicados à tela inteira, abrangendo cada pixel em cada quadro. Um mapeamento de tons (tonemap) reajustado mantém a imagem brilhante, e nuvens em funil menores todas essas modificações resultam em menos elementos renderizados com transparência; somado ao tonemap feito pelo autor do mod deixando a imagem mais brilhante.<br>
 Link para a pagina de download do mod: https://deadlockconfig.com/#o-brighterlighting<br>
 <br>
@@ -66,8 +66,8 @@ Pagina de Download do mod: https://deadlockconfig.com/#o-hpbars
 
 
 ## [Blur Disabler](https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler) By Sqooky and Bytenode
-
-O que ele faz: Este mod desativa todo o desfoque presente nos elementos da interface, o que reduz significativamente (no meu caso(Sqooky)) as travadas.
+<img width="1920" height="1080" alt="BLUR3" src="https://github.com/user-attachments/assets/48a4ff52-c26f-4a09-8f12-39055f9440fb" /><br>
+O que ele faz: Este mod desativa todo o desfoque presente nos elementos da interface, o que reduz significativamente (no meu caso(Sqooky)) as travadas. Para mim Silent7s tambem reduziu tempo de abertura da tela de configuração e menu de builds.
 Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler<br>
 <br>
 <br>
@@ -77,6 +77,6 @@ Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/
 
 ## [Sound stack update cap](https://deadlockconfig.com/#o-soundcap) by HoppCX: *A reprodução de sons é atualizada cerca de 60 vezes por segundo, em vez de a cada quadro.*
 <img width="1360" height="784" alt="Gemini_Generated_Image_yk567lyk567lyk56" src="https://github.com/user-attachments/assets/488639f0-d312-4983-b92c-d83fa3b4ca29" />
-Descrição traduzida: Cada som tem um lugar no mundo: a intensidade com que ele é ouvido em cada ouvido depende da sua localização e da posição em que você se encontra. O jogo realiza esse cálculo para cada som em reprodução a cada quadro (frame) — e, em uma luta de equipe, cerca de 80 sons podem estar sendo reproduzidos simultaneamente. Para evitar sobrecarga, o processamento de cada som ocorre em intervalos de 15 a 17 ms — uma frequência próxima à com que o servidor envia as posições (64 vezes por segundo) —, utilizando um temporizador aleatório individual para distribuir a carga de processamento entre os quadros. Vale ressaltar que os sons começam a ser reproduzidos exatamente no momento em que são acionados.
-
-
+Descrição traduzida: Cada som tem um lugar no mundo: a intensidade com que ele é ouvido em cada ouvido depende da sua localização e da posição em que você se encontra. O jogo realiza esse cálculo para cada som em reprodução a cada quadro (frame) — e, em uma luta de equipe, cerca de 80 sons podem estar sendo reproduzidos simultaneamente. Para evitar sobrecarga, o processamento de cada som ocorre em intervalos de 15 a 17 ms — uma frequência próxima à com que o servidor envia as posições (64 vezes por segundo) —, utilizando um temporizador aleatório individual para distribuir a carga de processamento entre os quadros. Vale ressaltar que os sons começam a ser reproduzidos exatamente no momento em que são acionados.<br>
+<br>
+<br>
