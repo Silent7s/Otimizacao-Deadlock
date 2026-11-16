@@ -1,8 +1,14 @@
 # Otimização-Deadlock
 Mods de Otimização que eu considero uteis e essenciais para Deadlock, Apresentarei cada um dos mods o que eles fazem, sua pagina oficial de download, seu autor, Imagens demonstrando exemplos e logo após no final do texto dividir em que mods eu recomendo para cada tipo de Maquina.
 
+## [Gameinfo](https://github.com/Sqooky/OptimizationLock/#table)
 
-# Particulas
+**Recomendações:**
+* [Sqooky's Config/Optimizationlock Default](https://github.com/Sqooky/OptimizationLock/blob/main/Sqooky's%20.gi/gameinfo.gi): Para Maior performance Sem perdas visuais.
+* [Sqooky's Max FPS Config](https://github.com/Sqooky/OptimizationLock/blob/main/maximumfps%20or%20minimum%20spec%20config%20and%20resources%20here/gameinfo.gi): Configuração focada em FPS porem ainda mantem o jogo com uma aparencia aceitavel.
+* [Kaizuchaneru's Minimum Spec](https://github.com/Sqooky/OptimizationLock/blob/main/kaizuchanerus%20minimum%20spec/gameinfo.gi): Focada em fps acima de tudo fazendo a aparência do jogo diferir muito do original.
+
+# Mods de Particulas
 
 ## [Clutter Be Gone](https://gamebanana.com/mods/722853) by [@laund](https://github.com/laundmo)
 <img width="1920" height="1080" alt="Credits Laund" src="https://github.com/user-attachments/assets/fa94d4d6-4ddb-4b8e-8fac-1d8fb2725315" />
@@ -15,7 +21,7 @@ Link para a pagina de download do mod: https://gamebanana.com/mods/722853
 O que ele faz: Vignette, exposição local e bloom são processamentos aplicados à tela inteira, abrangendo cada pixel em cada quadro. Um mapeamento de tons (tonemap) reajustado mantém a imagem brilhante, e nuvens em funil menores todas essas modificações resultam em menos elementos renderizados com transparência; somado ao tonemap feito pelo autor do mod deixando a imagem mais brilhante.<br>
 Link para a pagina de download do mod: https://deadlockconfig.com/#o-brighterlighting
 
-# Texturas
+# Mods de Texturas
 
 ## [Low detail map](https://deadlockconfig.com/#o-lowdetailmap) By jcStani
 <img width="623" height="350" alt="deadlockconfig com_" src="https://github.com/user-attachments/assets/f33cd5a6-12d5-4fec-8c77-cee3a6795135"/><br>
@@ -33,7 +39,7 @@ Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/
 O que ele faz: Reduz as texturas do jogo a um estado a reduzir o consumo de vram do jogo ao menor possivel suas vantagens em relação a outros mods semelhantes, como o potatolock, que tentam fazer isso manipulando mipmaps — uma abordagem que, por vezes, é ineficaz, já que algumas texturas ignoram os mipmaps e acabam sendo carregadas em alta resolução de qualquer maneira.<br>
 Pagina de Download do mod: https://gamebanana.com/dl/1865013
 
-# HUD
+# Mods de HUD
 
 
 ## [HUD++](https://deadlockconfig.com/) By HoppCX and jcStani
@@ -57,7 +63,7 @@ Pagina de Download do mod: https://deadlockconfig.com/#o-hpbars
 O que ele faz: Este mod desativa todo o desfoque presente nos elementos da interface, o que reduz significativamente (no meu caso(Sqooky)) as travadas.
 Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler
 
-# Engine
+# Mods de Engine
 
 
 ## [Sound stack update cap](https://deadlockconfig.com/#o-soundcap) by HoppCX: *A reprodução de sons é atualizada cerca de 60 vezes por segundo, em vez de a cada quadro.*
