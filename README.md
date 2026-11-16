@@ -7,6 +7,8 @@ Mods de Otimização que eu considero uteis e essenciais para Deadlock, Apresent
 * [Sqooky's Config/Optimizationlock Default](https://github.com/Sqooky/OptimizationLock/blob/main/Sqooky's%20.gi/gameinfo.gi): Para Maior performance Sem perdas visuais.
 * [Sqooky's Max FPS Config](https://github.com/Sqooky/OptimizationLock/blob/main/maximumfps%20or%20minimum%20spec%20config%20and%20resources%20here/gameinfo.gi): Configuração focada em FPS porem ainda mantem o jogo com uma aparencia aceitavel.
 * [Kaizuchaneru's Minimum Spec](https://github.com/Sqooky/OptimizationLock/blob/main/kaizuchanerus%20minimum%20spec/gameinfo.gi): Focada em fps acima de tudo fazendo a aparência do jogo diferir muito do original.
+<br>
+<br>
 
 # Mods de Particulas
 
@@ -19,7 +21,9 @@ Link para a pagina de download do mod: https://gamebanana.com/mods/722853
 ## [Brighter lighting](https://deadlockconfig.com/#o-brighterlighting) By BreadRollius
 <img width="666" height="375" alt="deadlockconfig com_ (3)" src="https://github.com/user-attachments/assets/2e171b70-db01-4f19-b786-89736c625267" /><br>
 O que ele faz: Vignette, exposição local e bloom são processamentos aplicados à tela inteira, abrangendo cada pixel em cada quadro. Um mapeamento de tons (tonemap) reajustado mantém a imagem brilhante, e nuvens em funil menores todas essas modificações resultam em menos elementos renderizados com transparência; somado ao tonemap feito pelo autor do mod deixando a imagem mais brilhante.<br>
-Link para a pagina de download do mod: https://deadlockconfig.com/#o-brighterlighting
+Link para a pagina de download do mod: https://deadlockconfig.com/#o-brighterlighting<br>
+<br>
+<br>
 
 # Mods de Texturas
 
@@ -37,7 +41,10 @@ Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/
 ## [Texture downscaler Mod](https://gamebanana.com/dl/1865013) By Sqooky
 <img width="3438" height="1440" alt="screenshot_20261003_130328-region" src="https://github.com/user-attachments/assets/cc40782d-2eda-46b8-9326-1ace2da74a0f" />
 O que ele faz: Reduz as texturas do jogo a um estado a reduzir o consumo de vram do jogo ao menor possivel suas vantagens em relação a outros mods semelhantes, como o potatolock, que tentam fazer isso manipulando mipmaps — uma abordagem que, por vezes, é ineficaz, já que algumas texturas ignoram os mipmaps e acabam sendo carregadas em alta resolução de qualquer maneira.<br>
-Pagina de Download do mod: https://gamebanana.com/dl/1865013
+Pagina de Download do mod: https://gamebanana.com/dl/1865013<br>
+<br>
+<br>
+
 
 # Mods de HUD
 
@@ -61,7 +68,9 @@ Pagina de Download do mod: https://deadlockconfig.com/#o-hpbars
 ## [Blur Disabler](https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler) By Sqooky and Bytenode
 
 O que ele faz: Este mod desativa todo o desfoque presente nos elementos da interface, o que reduz significativamente (no meu caso(Sqooky)) as travadas.
-Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler
+Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Blur%20Disabler<br>
+<br>
+<br>
 
 # Mods de Engine
 
