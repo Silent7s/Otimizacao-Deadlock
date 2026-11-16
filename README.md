@@ -29,7 +29,7 @@ O que ele faz: Reduz a qualidade das Texturas sem comprometer a Iluminação e o
 Pagina de Download do mod: https://deadlockconfig.com/#o-lowdetailmap
 
 
-## [Sinner Light Fix Mod](https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Sinner%20Light%20Fix%20Mod)
+## [Sinner Light Fix Mod](https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Sinner%20Light%20Fix%20Mod) By HoppCX
 <img width="1280" height="720" alt="p3lhjkxqvizh1" src="https://github.com/user-attachments/assets/16f71deb-e0ec-4ff9-97d4-68142518dcad" /><br>
 O que ele faz: se você baixar a qualidade das texturas usando r_texture_stream_mip_bias para um valor acima de 4 as luzes dos sinners param de aparecer corretamente para você esse mod faz com que as luzes apareçam novamente independente de que valor você configurar suas texturas.<br>
 Pagina de Download do mod: https://github.com/Sqooky/OptimizationLock/tree/main/Performance%20Improving%20Mods/Sinner%20Light%20Fix%20Mod
