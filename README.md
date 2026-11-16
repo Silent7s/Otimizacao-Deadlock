@@ -28,7 +28,11 @@ Link para a pagina de download do mod: https://deadlockconfig.com/#o-brighterlig
 # Mods de Texturas
 
 ## [Low detail map](https://deadlockconfig.com/#o-lowdetailmap) By jcStani
-<img width="623" height="350" alt="deadlockconfig com_" src="https://github.com/user-attachments/assets/f33cd5a6-12d5-4fec-8c77-cee3a6795135"/><br>
+
+| Stock (Original) | Brighter Lighting (Modificado) |
+| :---: | :---: |
+| ![Stock](<img width="1920" height="1080" alt="Texturas_antes" src="https://github.com/user-attachments/assets/3e0de8f3-3566-4665-8847-e3b3feaff1b9"/>) | ![Brighter Lighting](<img width="1920" height="1080" alt="Texturas_Depois" src="https://github.com/user-attachments/assets/994879c4-d5cc-478b-9a49-d7662149e87e"/>) |
+
 O que ele faz: Reduz a qualidade das Texturas sem comprometer a Iluminação e os detalhes Importantes uma solução menos extrema que potatolock e o Texture Downscaler Mod apresentado abaixo.<br>
 Pagina de Download do mod: https://deadlockconfig.com/#o-lowdetailmap
 
