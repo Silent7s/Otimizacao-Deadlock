@@ -42,11 +42,7 @@ Link para a página de download do mod: https://deadlockconfig.com/#o-brighterli
 <br>
 
 ## [Low detail map](https://deadlockconfig.com/#o-lowdetailmap) By jcStani
-
-| Stock (Original) | Low Detail Map (Modificado) |
-| :---: | :---: |
-| <img width="1920" height="1080" alt="Texturas antes" src="https://github.com/user-attachments/assets/3e0de8f3-3566-4665-8847-e3b3feaff1b9" /> | <img width="1920" height="1080" alt="Texturas Depois" src="https://github.com/user-attachments/assets/994879c4-d5cc-478b-9a49-d7662149e87e" /> |
-
+<img width="1863" height="981" alt="texture3" src="https://github.com/user-attachments/assets/6a5cd49b-d9fb-4fe4-b908-b7ca2f9d6afc" /><br>
 O que ele faz: Reduz a qualidade das texturas sem comprometer a iluminação e os detalhes importantes; é uma solução menos extrema que o Potatolock e o Texture Downscaler Mod apresentado abaixo.<br>
 Página de download do mod: https://deadlockconfig.com/#o-lowdetailmap
 <br>
