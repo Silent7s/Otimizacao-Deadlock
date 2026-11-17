@@ -3,6 +3,16 @@ Mods de otimização que eu considero úteis e essenciais para Deadlock. Apresen
 <br>
 <br>
 
+## Índice:
+* [Gameinfo](#gameinfo)
+* [Mods de Partículas](#mods-de-partículas)
+* [Mods de Texturas](#mods-de-texturas)
+* [Mods de HUD](#mods-de-hud)
+* [Mods de Engine](#mods-de-engine)
+* [Qualidade de Vida](#qualidade-de-vida)
+---
+<br>
+
 ## [Gameinfo](https://github.com/Sqooky/OptimizationLock/#table)
 
 **Recomendações:**
